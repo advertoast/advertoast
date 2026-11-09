@@ -17,7 +17,7 @@ window.CONTENT = {
     youtube: "Advertoast",
     whatsapp: "",                      // optional, e.g. "9198XXXXXXXX" (leave "" to hide)
     bookingUrl: "",                    // optional free Calendly / Cal.com link (leave "" to hide)
-    replyTime: "Replies within 12 hours, Monday to Saturday."
+    replyTime: "Replies within 3 hours, Monday to Saturday."
   },
 
   /* ---------- top banner offers (only active + not expired ones show) ---------- */
